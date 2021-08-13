@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Siyu He"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "profile.jpeg"
+  bio              : "PhD candidate in BME"
+  location         : "NYC"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=230v1b4AAAAJ&hl=en"
