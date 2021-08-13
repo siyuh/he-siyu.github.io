@@ -12,7 +12,7 @@ author_profile: true
 
 * Kim, H.S., Xiao, Y., Chen, X.,  **He S**, Im, J., Willner, M.J., Finlayson, M.O., Xu, C., Zhu, H., Choi, S.J. and Mosharov, E.V., 2021. Chronic opioid treatment arrests neurodevelopment and alters synaptic activity in human midbrain organoids. bioRxiv (2021).
 
-* G Zhong*, J Wang*, **He S*** and X Fu*. (2021) Towards better understanding of developmental disorders from integration of spatial single-cell transcriptomics and epigenomics. ICML Workshop in Computational Biology 2021.
+* G Zhong, J Wang *, S He *, F Xi *. (2021) Towards better understanding of developmental disorders from integration of spatial single-cell transcriptomics and epigenomics. ICML Workshop in Computational Biology 2021.
 
 * R. Kunes, **He S**, Y. Xiao, S. Tavare, D. Knowles. (2020) Supervised Tumor Cell Subtype Identification via SCAN. ICML Workshop in Computational Biology 2020.
 
