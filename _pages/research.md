@@ -20,14 +20,30 @@ The 22q11.2 deletion syndrome (22q11.2 DS) is a genetic disorder caused by micro
 * **Whole mouse brain vasculature with 22q11.2DS**
 
 
-Other projects
+Other collaborated projects
 ----
-* **22q11.2DS modeling with blood vessel organoids** ()
+* **Simulation of blood flow in branched TEBV** ()
 
-* **22q11.2DS modeling with blood vessel organoids** ()
+* **gene editing experiments** ()
 
-* **22q11.2DS modeling with blood vessel organoids** ()
+* **Proposing a statistical model for cell subtype identification** ()
 
-* **22q11.2DS modeling with blood vessel organoids** ()
+* **Spatial multi-omics model** ()
+
+* **RNA velocity** ()
+
+* **Machine learning quantification of breast cancer metastasis** ()
+
+* **scRNAseq analysis** ()
+
+Experimental skills
+----
+
+
+Computational skills
+----
+
+
+
 
 
