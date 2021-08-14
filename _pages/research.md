@@ -40,7 +40,7 @@ Other collaborated projects
     
     Accepted by Advanced Biology
     
-* CRISPR/Cas9‐mediated mutagenesis to validate the synergy between PARP1 inhibition and chemotherapy in BRCA1‐mutated breast cancer cells (with Yeh-Sing Lao)
+* CRISPR/Cas9‐mediated mutagenesis to validate the synergy between PARP1 inhibition and chemotherapy in BRCA1‐mutated breast cancer cells (with Yeh‐Hsing Lao)
 
     Accepted by Bioengineering & Translational Medicine
 
