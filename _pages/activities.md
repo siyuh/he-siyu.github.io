@@ -5,7 +5,7 @@ excerpt: ""
 author_profile: true
 
 ---
-* Award
+* Awards
     * Sigma Xi Grants-in-Aid of Research Award
     * ICML2021 Workshop on Computational Biology Fellowship
 
