@@ -6,16 +6,14 @@ author_profile: true
 
 ---
 
-** Teaching
+* Teaching Assistant
 
-Teaching assistant 2019 Drug Delivery
+BMENE4530 (2019Fall) DRUG AND GENE DELIVERY
+2021Fall TBD
 
-** Mentoring
-2020 Summer NY Bioforce program
-2021 Summer
-
-** Internship
-2021 Roche pREDi Data Analyst
+* Mentor in NY Bioforce program (2021Summer)
+* Mentor in Talaria program (Women in STEM, 2021Summer)
+* Intern in Roche Data Science Team (2021 Summer)
 
 
 
