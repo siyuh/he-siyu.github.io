@@ -7,6 +7,7 @@ author_profile: true
 ---
 * Award
     * Sigma Xi Grants-in-Aid of Research Award
+    * ICML2021 Workshop on Computational Biology Fellowship
 
 * Teaching Assistant
 
