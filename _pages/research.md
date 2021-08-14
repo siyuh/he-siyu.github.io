@@ -66,10 +66,22 @@ Other collaborated projects
 
 Experimental skills
 ----
-
+* Blood vessel organoids generation
+* Lentivirus transfection
+* CRIPSR gene editing
+    
+    Have successully introduce a single gene to the iPSCs (HDR)
+* Brain organoids generation
+* Confocal 
 
 Computational skills
 ----
+* Machine learning/Deep learning
+* Statistical modeling
+* Imaging analysis
+* scRNA-seq analysis, scATAC seq analysis, scTCR/scBCR seq analysis
+* Python, R, matlab etc.
+* Fluid mechanics simulation, such as comsol and openfoam
 
 
 
