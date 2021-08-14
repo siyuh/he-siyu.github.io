@@ -35,19 +35,20 @@ Major projects
 
 Other collaborated projects
 ----
-* Simulation of blood flow in branched TEBV (with Helen Lee)
+* Emulating Early Atherosclerosis in a Vascular Microphysiological System Using Branched Tissue‐Engineered Blood Vessels (with Jounghyun Lee)
+    * Simulation of blood flow in branched TEBV with openfoam/comsol
+    
+* CRISPR/Cas9‐mediated mutagenesis to validate the synergy between PARP1 inhibition and chemotherapy in BRCA1‐mutated breast cancer cells (with Yeh-Sing Lao)
 
-* gene editing experiments (with Yeh-Sing Lao)
+* Supervised Tumor Cell Subtype Identification via SCAN (with Russell Kunes, class project)
 
-* Proposing a statistical model for cell subtype identification (with Russell Kunes, class project)
+* Towards better understanding of developmental disorders from integration of spatial single-cell transcriptomics and epigenomics (class project)
 
-* Spatial multi-omics model (class project)
+* Chronic opioid treatment arrests neurodevelopment and alters synaptic activity in human midbrain organoids (with Yang Xiao)
 
-* RNA velocity (with Yang Xiao)
+* Machine learning mediated quantification of breast cancer metastasis (with Tolu)
 
-* Machine learning quantification of breast cancer metastasis (with Tolu)
-
-* scRNAseq analysis (with Gordana Lab)
+* some scRNAseq analysis (with Gordana Lab)
 
 Experimental skills
 ----
