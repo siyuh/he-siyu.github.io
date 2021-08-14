@@ -38,17 +38,31 @@ Other collaborated projects
 * Emulating Early Atherosclerosis in a Vascular Microphysiological System Using Branched Tissue‐Engineered Blood Vessels (with Jounghyun Lee)
     * Simulation of blood flow in branched TEBV with openfoam/comsol
     
+    Accepted by Advanced Biology
+    
 * CRISPR/Cas9‐mediated mutagenesis to validate the synergy between PARP1 inhibition and chemotherapy in BRCA1‐mutated breast cancer cells (with Yeh-Sing Lao)
+
+    Accepted by Bioengineering & Translational Medicine
 
 * Supervised Tumor Cell Subtype Identification via SCAN (with Russell Kunes, class project)
 
+    Accepted by icml2020
+
 * Towards better understanding of developmental disorders from integration of spatial single-cell transcriptomics and epigenomics (class project)
+
+    Accepted by icml2021
 
 * Chronic opioid treatment arrests neurodevelopment and alters synaptic activity in human midbrain organoids (with Yang Xiao)
 
-* Machine learning mediated quantification of breast cancer metastasis (with Tolu)
+    Under submission to cell stem cell
 
-* some scRNAseq analysis (with Gordana Lab)
+* Machine learning mediated quantification of breast cancer metastasis (with Tolu)
+    
+    Under submission to science translational medicine
+
+* Some scRNAseq analysis (with Gordana Lab)
+
+    Under submission to science translational medicine
 
 Experimental skills
 ----
