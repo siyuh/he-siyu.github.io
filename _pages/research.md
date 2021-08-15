@@ -16,7 +16,7 @@ Major projects
 
     Certain types of the stem cells, such as mesenchymal stem cell (MSC), neural stem cell (NSC) harbored the ability of tumor-homing, thus considered as an intelligent drug carrier for treating the cancer such as GBM. However, the mechanism of how these stem cells is regulated by the cancer cell signals, and how the trajectory of stem cells gets affected by their interaction with cancer cells is not well understood yet, which hinder the exploration of the more effective delivery strategy. Here we utilized the application of integrated deep learning methods to reveal the interaction dynamics of single and collective MSC/cancer motility. We quantified the cellular dynamics in the co-culturing system of the MSC and cancer cell. We model the co-culture system as an active nematic liquid crystal identified the cancer cell apoptosis induced by the formation of topological defects among the population of rod-shaped MSC. We modeled the interaction pattern of the co-culture by statistical generative model. Single cell RNA profiling revealed the affected signaling among the stem-cancer cell interaction. Our study provided a comprehensive physical insight for the stem cell and cancer cells interactive motility with novel analytical ways and provided potential suggestions for the delivery strategies. 
 
-* **Deep learning models for integration histological images and spatial transcriptomics (Ongoing)**
+* **Deep learning models integrating histological images and spatial transcriptomics (Ongoing)**
 
     Collaborated with Azizi Lab
     
@@ -37,27 +37,27 @@ Other collaborated projects
 ----
 * Emulating Early Atherosclerosis in a Vascular Microphysiological System Using Branched Tissue‐Engineered Blood Vessels (with Jounghyun Lee,  accepted by Advanced Biology)
 * CRISPR/Cas9‐mediated mutagenesis to validate the synergy between PARP1 inhibition and chemotherapy in BRCA1‐mutated breast cancer cells (with Yeh‐Hsing Lao, accepted by Bioengineering & Translational Medicine)
-* Supervised Tumor Cell Subtype Identification via SCAN (with Russell Kunes, class project, accepted by icml2020)
-* Towards better understanding of developmental disorders from integration of spatial single-cell transcriptomics and epigenomics (class project, accepted by icml2021)
-* Chronic opioid treatment arrests neurodevelopment and alters synaptic activity in human midbrain organoids (with Hye Sung Kim & Yang Xiao, under submission to cell stem cell)
+* Supervised Tumor Cell Subtype Identification via SCAN (with Russell Kunes, class project, accepted by icml compbio2020)
+* Towards better understanding of developmental disorders from integration of spatial single-cell transcriptomics and epigenomics (class project, accepted by icml compbio2021)
+* Chronic opioid treatment arrests neurodevelopment and alters synaptic activity in human midbrain organoids (with Hye Sung Kim & Yang Xiao, under review in cell stem cell)
 * Machine learning mediated quantification of breast cancer metastasis (with Tolu O. Akinade and Tianyu Li, under submission to science translational medicine)
 * Some scRNAseq analysis (with Naveed Tavakol in Gordana Lab, under submission to science translational medicine)
 
 Experimental skills
 ----
-* Blood vessel organoids generation
-* Lentivirus transfection
-* CRIPSR gene editing (Have successully introduced a single gene to iPSCs)
-* Brain organoids generation
-* Confocal imaging
+* Generation of blood vessel organoids
+* Generation of brain organoids
+* Lentiviruses transduction
+* CRISPR gene editing (Have successully introduced a point mutation to iPSCs)
+* Confocal microscopy
 
 Computational skills
 ----
 * Machine learning/Deep learning
 * Statistical modeling
 * Imaging analysis
-* scRNA-seq analysis, scATAC seq analysis, scTCR/scBCR seq analysis
-* Python, R, matlab etc.
+* scRNA-seq analysis, scATAC seq analysis, whole genome, scTCR/scBCR seq analysis
+* Python, R, matlab, Linux, Bash, etc.
 * Fluid mechanics simulation, such as comsol and openfoam
 
 
