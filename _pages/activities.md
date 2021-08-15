@@ -8,6 +8,10 @@ author_profile: true
 * Awards
     * Sigma Xi Grants-in-Aid of Research Award
     * ICML2021 Workshop on Computational Biology Fellowship
+    * First Prize in Mount Everest Scholarship
+    * Siyuan Scholarship, Xian Jiaotong University
+    * Dean’ s List Award, Xian Jiaotong University
+    * Second Prize,China Undergraduate Physics Tournament
     
 * Conferences
     * ICML2020/2021
