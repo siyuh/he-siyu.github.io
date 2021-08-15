@@ -8,7 +8,7 @@ author_profile: true
 
 * **He S***, Xu, C *, Chauhan S, Lao YH, Xiao Y, Willner M, McElroy S, Tomer R, Jin Y, Rao S, Gogos J, Azizi E, Xu B, Leong K. Mapping morphological malformation to genetic dysfunction in blood vessel organoids. Under submission. (2021).
 
-* **He S***, Lao YH *, Azizi E, Leong K. Mapping morphological malformation to genetic dysfunction in blood vessel organoids. In preparation (2021).
+* **He S***, Lao YH *, Azizi E, Leong K. MSC-cancer interaction induced topological defect correlate with cancer cell apoptosis. In preparation (2021).
 
 * Kim, H.S., Xiao, Y., Chen, X.,  **He S**, Im, J., Willner, M.J., Finlayson, M.O., Xu, C., Zhu, H., Choi, S.J. and Mosharov, E.V., 2021. Chronic opioid treatment arrests neurodevelopment and alters synaptic activity in human midbrain organoids. bioRxiv (2021).
 
