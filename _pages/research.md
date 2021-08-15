@@ -48,7 +48,7 @@ Experimental skills
 * Generation of blood vessel organoids
 * Generation of brain organoids
 * Lentiviruses transduction
-* CRISPR gene editing (Have successully introduced a point mutation to iPSCs)
+* CRISPR gene editing (have successully introduced a point mutation to iPSCs by HDR)
 * Confocal microscopy
 
 Computational skills
