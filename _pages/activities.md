@@ -6,15 +6,15 @@ author_profile: true
 
 ---
 * Awards
-    * Sigma Xi Grants-in-Aid of Research Award
-    * ICML2021 Workshop on Computational Biology Fellowship
-    * First Prize in Mount Everest Scholarship
-    * Siyuan Scholarship, Xian Jiaotong University
-    * Dean’ s List Award, Xian Jiaotong University
-    * Second Prize,China Undergraduate Physics Tournament
+    * Sigma Xi Grants-in-Aid of Research Award, 2021
+    * ICML2021 Workshop on Computational Biology Fellowship, 2021
+    * First Prize in Mount Everest Scholarship, 2015, 2016
+    * Siyuan Scholarship, Xian Jiaotong University, 2014, 2015, 2016
+    * Dean’ s List Award, Xian Jiaotong University, 2014
+    * Second Prize,China Undergraduate Physics Tournament, 2014
     
 * Conferences
-    * ICML2020/2021
+    * ICML 2020, 2021
     * NYSCF2018
     * NIH Tissue Chip Consortium 2018, 2019, 2020, 2021
 
@@ -25,15 +25,15 @@ author_profile: true
 * Research Mentor/Volunteer
     * NY Bioforce program (2021Summer)
     * Talaria program (Women in STEM, 2021Summer)
-    * Judging in ENVISION, Women in STEM, 2020
+    * Judging in ENVISION, Women in STEM (2020)xs
 
 * Internship
     * Roche Data Science Team (2021 Summer)
-    * Scientific American
+    * Scientific American (2017)
     
 * Others
-    * Member of council in XJTU Alumni Association of Greater New York
-    * Volunteer at 35th Council Meeting of Association of Asia Pacific Physical Societies
+    * Member of council in XJTU Alumni Association of Greater New York, 2020-present
+    * Volunteer at 35th Council Meeting of Association of Asia Pacific Physical Societies, 2017
     
 
 
