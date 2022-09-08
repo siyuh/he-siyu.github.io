@@ -13,3 +13,11 @@ Hi, I am Siyu, currently a 5th-year phd candidate in [Biomedical Engineering](ht
 You can also find my profile from [Leong Lab](https://leonglab.bme.columbia.edu/), [Azizi Lab](https://www.azizilab.com/members.html), or [Cancer dynamics](https://cancerdynamics.columbia.edu/content/siyu-he).
 
 
+**News**
+2022-08-30 I presented starfysh model at FOSBE2022
+2021-10 passed my thesis proposal
+
+
+
+
+
