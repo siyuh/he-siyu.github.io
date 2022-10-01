@@ -17,10 +17,23 @@ You can also find my profile from [Leong Lab](https://leonglab.bme.columbia.edu/
 
 2022
 
-* 2022-08-30 I presented starfysh model at FOSBE2022
+* I presented starfysh model at FOSBE2022
+* I attened NEBEC with a poster presentation
+* 
+
 
 2021
-* 2021-10 passed my thesis proposal
+* I passed my thesis proposal
+* I awarded Baxter Young Investigator Awards
+* I awarded Sigma Xi Grants-in-Aid of Research Award
+* I awarded CML2021 Workshop on Computational Biology Fellowship
+* The paper accepted at Workshop on Computational Biology at ICML
+* I was teaching assistant in the class "Introduction to functional genomics"
+
+
+2020 
+//
+* The paper accepted at Workshop on Computational Biology at ICML
 
 
 
