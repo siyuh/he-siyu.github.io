@@ -1,13 +1,13 @@
 # main links links
 main:
+  - title: "HOME"
+    url: /HOME/
+    
   - title: "RESEARCH"
     url: /RESEARCH/
     
   - title: "PUBLICATIONS"
     url: /PUBLICATIONS/
-
-  - title: "ACTIVITIES"
-    url: /ACTIVITIES/
     
   - title: "TEACHING"
     url: /TEACHING/
