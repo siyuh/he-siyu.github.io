@@ -1,10 +1,9 @@
 ---
-layout: archive
-title: 'Teaching'
-permalink: /Teaching/
+
+title: 'TEACHING'
+permalink: /TEACHING/
 author_profile: true
-redirect_from:
-  - /resume
+excerpt: ""
 ---
 
 I have mentored 10+ high school student, undergraduate, graduate students. 
