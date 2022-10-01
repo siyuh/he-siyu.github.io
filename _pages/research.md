@@ -5,4 +5,4 @@ excerpt: ""
 author_profile: false
 
 ---
-<img src="$/images/profile.png"/>
+<img src="/images/profile.png"/>
