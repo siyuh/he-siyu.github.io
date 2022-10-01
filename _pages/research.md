@@ -1,9 +1,15 @@
 ---
-permalink: /RESEARCH/
 title: "RESEARCH"
-excerpt: ""
+permalink: /RESEARCH/
 author_profile: false
-
 ---
-<img src="/images/profile.png"/>
+
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+Footer
+
 
