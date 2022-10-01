@@ -2,7 +2,7 @@
 permalink: /ACTIVITIES/
 title: "ACTIVITIES"
 excerpt: ""
-author_profile: true
+author_profile: false
 
 ---
 

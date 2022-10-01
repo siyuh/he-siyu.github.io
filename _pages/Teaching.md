@@ -2,7 +2,7 @@
 
 title: 'TEACHING'
 permalink: /TEACHING/
-author_profile: true
+author_profile: false
 excerpt: ""
 ---
 
