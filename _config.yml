@@ -225,10 +225,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _RESEARCH
   - scope:
       path: ""
-      type: portfolio
+      type: RESEARCH
     values:
       layout: single
       author_profile: true
