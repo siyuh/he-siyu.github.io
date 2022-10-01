@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: "PUBLICATIONS"
 permalink: /PUBLICATIONS/
+title: "PUBLICATIONS"
+excerpt: ""
 author_profile: true
 ---
 
