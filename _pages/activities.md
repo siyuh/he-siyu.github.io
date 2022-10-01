@@ -1,10 +1,11 @@
 ---
-permalink: /activities/
-title: "Activities"
+permalink: /ACTIVITIES/
+title: "ACTIVITIES"
 excerpt: ""
 author_profile: true
 
 ---
+
 * Awards
     * Baxter Young Investigator Awards, 2021
     * Sigma Xi Grants-in-Aid of Research Award, 2021
