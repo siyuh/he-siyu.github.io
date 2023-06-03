@@ -12,11 +12,7 @@ Hi, I am Siyu, currently a postdoc in the [Department of Biomedical Data Science
 
 My reearch interests lie at the interface of stem cell engineering, disease modeling, statistical machine learning and computational biology. My current research focus is spatial transcriptomics and cell atlases to understand cell biology and working on developing machine learning methods for modeling spatial omics data.
 
-
 I got my phd in [Biomedical Engineering](https://www.bme.columbia.edu/) at Columbia University. I am co-advised by [Dr. Kam Leong](https://www.engineering.columbia.edu/faculty/kam-leong) and [Dr. Elham Azizi](https://www.bme.columbia.edu/faculty/elham-azizi). 
-
-
-# the commit.
 
 You can also find my profile from [Leong Lab](https://leonglab.bme.columbia.edu/), [Azizi Lab](https://www.azizilab.com/members.html), or [Cancer dynamics](https://cancerdynamics.columbia.edu/content/siyu-he).
 
