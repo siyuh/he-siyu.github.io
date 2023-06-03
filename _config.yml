@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Siyu He @ COLUMBIA"
+title                    : "Siyu He @ Stanford"
 title_separator          : "-"
 name                     : &name "Siyu He"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Siyu He"
   avatar           : "profile.png"
-  bio              : "PhD candidate in BME"
-  location         : "NYC"
+  bio              : "Postdoc in Biomedical Data Science"
+  location         : "Palo Alto"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=230v1b4AAAAJ&hl=en"
